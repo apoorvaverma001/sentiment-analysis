@@ -1,2 +1,2 @@
 # sentiment-analysis
-Sentiment analysis using machine learning algorithms
+ACADEMIC PROJECT -Sentiment analysis using machine learning algorithms
